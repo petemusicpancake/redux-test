@@ -1,0 +1,9 @@
+.usersSelected .selected {
+    display: flex;
+    align-items: center;
+}
+.usersSelected h3 {
+    font-weight: normal;
+    margin: 25px 10px;
+
+}

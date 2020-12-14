@@ -1,0 +1,9 @@
+.user {
+    display: flex;
+    align-items: center;
+    margin: 25px 0;
+}
+.user h3 {
+    font-weight: normal;
+    margin-right: 10px;
+}

@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 15px;
+    border-bottom: 1px solid lightgrey;
+}
+.header__users {
+    flex: .5;
+}
+.header__selectedUsers {
+    flex: .5
+}
